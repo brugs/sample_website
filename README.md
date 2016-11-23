@@ -1,4 +1,4 @@
-# Learn Enough html
+<h1>Learn Enough html</h1>
 This is the sample application for
 Learn Enough html tutorial
 by Michael Hartl.
